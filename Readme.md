@@ -12,11 +12,6 @@ This guide will help you set up and run the application locally.
 
 ### 1. Clone the Repository
 
-```bash
-git clone <your-repository-url>
-cd <project-directory>
-```
-
 ### 2. Install Dependencies
 
 ```bash
